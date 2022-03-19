@@ -6,7 +6,7 @@ public class Driver {
 
 	public static void main1(String[] args) {
 		// TODO Auto-generated method stub
-		int arr[] = { 10, 26, 131, 49, 50, 68, 72, 85};
+		int arr[] = { 10, 26, 131, 49, 50, 68, 172, 85};
 		FibonacciSearch fbSearch = new FibonacciSearch();
 		System.out.println("Fionacci Search Result: " + fbSearch.fibonaccianSearch(arr, 76, arr.length));
 
